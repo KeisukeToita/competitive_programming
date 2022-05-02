@@ -1,1 +1,3 @@
 # competitive_programming
+Atcoderを中心に書いたコードをpushしていくだけのリポジトリ
+(解説をまんまパクってるやつも含む)
